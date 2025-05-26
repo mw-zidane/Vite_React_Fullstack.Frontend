@@ -1,1 +1,1 @@
-export const BASE_URL = "https://localhost:7292/api/";
+export const BASE_URL = "https://fullstack-asp-net-crud-api.onrender.com/";
